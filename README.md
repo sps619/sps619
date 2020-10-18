@@ -1,4 +1,5 @@
 <h1 align="center">Hi, I'm Shubham Pratap Singh</h1>
+![Badge](https://cp-logo.vercel.app/codechef/shubham_thakur)
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sps619" alt="sps619" /> </p>
 
 - 🔭 I’m currently working on **Unity**
