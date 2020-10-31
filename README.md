@@ -4,9 +4,17 @@
 - 🔭 I’m currently working on **Unity**
 
 <p align="left">
-<h3 align="left">📫 Connect with me:</h3>
-<a href="https://linkedin.com/in/sps619" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="Shubham Pratap Singh" height="30" width="40" /></a>
-<a href="https://instagram.com/shubhamthakur619" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg" alt="@shubhamthakur619" height="30" width="40" /></a>
+<h3 align="left">📫 Find me elsewhere:</h3>
+<a href="https://www.linkedin.com/in/sps619/">
+    <img src="svg/social/linkedin.svg" alt="linkedin" style="vertical-align:top; margin:6px 4px"></a>  
+<a href="https://twitter.com/sps619">
+    <img src="svg/social/twitter.svg" alt="twitter" style="vertical-align:top; margin:6px 4px"></a> 
+ <a href="https://instagram.com/shubhamthakur619">
+    <img src="svg/social/instagram.svg" alt="instagram" style="vertical-align:top; margin:6px 4px"></a>  
+<a href="https://www.snapchat.com/add/sps_619">
+    <img src="svg/social/snapchat.svg" alt="snapchat" style="vertical-align:top; margin:6px 4px"></a>
+<a href="https://stackoverflow.com/users/4360022/shubham-thakur">
+    <img src="svg/social/stackoverflow.svg" alt="stackoverflow" style="vertical-align:top; margin:6px 4px"></a>  
 </p>
 
 <h3 align="left">⚡ Languages and Tools:</h3>
