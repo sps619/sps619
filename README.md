@@ -1,7 +1,7 @@
 <h1 align="center">Hi, I'm Shubham Pratap Singh</h1>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sps619" alt="sps619" /> </p>
 
-- 🔭 I’m currently working on **Unity**
+- 🔭 I’m currently working on **Android**
 
 <p align="left">
 <h3 align="left">📫 Find me elsewhere:</h3>
